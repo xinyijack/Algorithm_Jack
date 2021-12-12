@@ -3,7 +3,7 @@ package NinethWeek_Work.To_Lower_Case;
 /**
  * @author jack
  * @version 1.0.0
- * @ClassName Solution.java
+ * @ClassName Solution
  * @Description 709.To Lower Case 转换为小写字母
  * @createTime 2021年12月05日 21:43:00
  */
